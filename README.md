@@ -27,6 +27,7 @@
 
 ## 프로젝트 이력
 - 캡스톤 설계 : 태양광 컨버터의 PID 알고리즘 제어(2025)
+!(https://github.com/SHINJINCHEL/RESUME/blob/e787ac6982601ad93819aa0c6476a5c9f71ccd9b/images/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84.jpg)
 
 <img src='./images/toonies.png' width="80" />
 

@@ -12,7 +12,7 @@
 - Email: chlwjddksxk@naver.com
 
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+문제를 극복하여 한발짝 더 발전해 나가는 것을 가장 큰 보람으로 느끼고 있습니다.
 ```
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)

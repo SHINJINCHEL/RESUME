@@ -16,7 +16,7 @@
 ```
 
 ## 회사경력
-- [한국전력공사 - 송배전직무](https://home.kepco.co.kr/kepco/main.do) (2026 ~ 현재)
+- [한국전력공사]-송배전직무(https://home.kepco.co.kr/kepco/main.do) (2026 ~ 현재)
 
 ## 대외활동
 - 한국전력공사 하반기 체험형 인턴(2025)

@@ -15,26 +15,18 @@
 문제를 극복하여 한발짝 더 발전해 나가는 것을 가장 큰 보람으로 느끼고 있습니다.
 ```
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
-
-## Enginnering Ladders
-[Engineering Ladders](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)로 표현해본 제 스킬은 이렇습니다.
-
-<img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
-
 ## 회사경력
-- [한국전력공사](https://home.kepco.co.kr/kepco/main.do) (2024 ~ 현재)
+- [한국전력공사](https://home.kepco.co.kr/kepco/main.do) (2026 ~ 현재)
 
 ## 대외활동
-- [ifkakao 2022 발표](https://www.youtube.com/watch?v=YXi0eipXBKk) - CI & Remote Build (2022)
-- 네이버 부스트캠프 코드 리뷰어(2021)
+- 한국전력공사 하반기 체험형 인턴(2025)
 
 ## 학력
 - 광운대학교 전기공학과 졸업(2020 ~ 2025)
 - 대인고등학교 졸업(2017 ~ 2019)
 
 ## 프로젝트 이력
-
+- 캡스톤 설계 : 태양광 컨버터의 PID 알고리즘 제어(2025)
 
 <img src='./images/toonies.png' width="80" />
 

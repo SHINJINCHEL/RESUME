@@ -5,13 +5,11 @@
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
-- 이름: 정성민
-- 군필여부: 병역특례로 복무완료
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
-- Email: jspiner@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+![프로필이미지](![image](https://github.com/user-attachments/assets/4c4bd4e0-2e90-4f4a-b2c8-1ab8171e17b7))
+- 이름: 신진철
+- 군필여부: 의무경찰로 복무완료
+- 취미: 야구보기, 달리기, 여행, 영화보기
+- Email: chlwjddksxk@naver.com
 
 ```
 엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.

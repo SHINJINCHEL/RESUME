@@ -1,7 +1,6 @@
 # 이력서
 
 ## 소개
-![프로필이미지](https://github.com/SHINJINCHEL/RESUME/blob/e787ac6982601ad93819aa0c6476a5c9f71ccd9b/images/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84.jpg)
 - 이름: 신진철
 - 군필여부: 의무경찰로 복무완료
 - 취미: 야구보기, 달리기, 여행, 영화보기
